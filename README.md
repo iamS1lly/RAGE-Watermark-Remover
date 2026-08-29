@@ -44,3 +44,6 @@ Save all the info, crash info logging file and make a issue request here on gith
 
 # Will this be updated regularly?
 Yes; for the most part i intend to keep this updated and offer more features and better handling of the removing of watermarks 
+
+
+<a target='_blank'> <img src='https://github.com/iamS1lly/RAGE-Watermark-Remover/blob/main/Screenshot%202026-08-29%20014432.png' /> </a>
