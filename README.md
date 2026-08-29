@@ -36,3 +36,11 @@ Bit of a side note unrelated but this would be a great way to add your own custo
 
 > [!CAUTION]
 > The plugin has a good change of breaking after every fivem update so in that case either update the rfwm_hook.h or just wait for me to update it 🤷
+
+---
+
+# What if i experience crashing?
+Save all the info, crash info logging file and make a issue request here on github, ill likely not respond to crashing issues via discord 
+
+# Will this be updated regularly?
+Yes; for the most part i intend to keep this updated and offer more features and better handling of the removing of watermarks 
