@@ -10,7 +10,7 @@ If you would like to build the project yourself just download the source and ope
 
 i am providing source so you know it aint a rat, also disregard the name RFDE and fidelity i just made a copy of my other WIP plugin to make this one
 
-this works by telling the font-renderer.dll to basically fuck off on certain things, i just took the original source from CFX and went from there, there shouldnt be any bugs with text not appearing since its only for the clients rendering but if there is again contact me with something like this 
+this works by telling the font-renderer.dll to basically just block text under certain criteria, i just took the original source from CFX and went from there, there shouldnt be any bugs with text not appearing since its only for the clients rendering but if there is again contact me with something like this 
 ---
 
 | Plugin issue?  | Issue Reported?  | You're Fixes if any? |
