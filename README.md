@@ -1,3 +1,6 @@
+> [!CAUTION]
+> DUE TO THIS BEING A OPEN SOURCE TOOL YOU SHOULD NOT DOWNLOAD UN-MARKED ASI FILES FROM OTHER USERS WITHOUT CONFIRMING SOURCE!!!!! 
+
 # FiveM Watermark Text Remover!
 
 This is made to just remove the on-screen watermarking text, for any comments or concerns and or bugs contact me on discord at s1lly.devs
@@ -26,3 +29,6 @@ Just so i know whats broken or not rendering!
 
 > [!CAUTION]
 > The plugin as a good change of breaking after every fivem update so in that case either update the font rendering blocker or just wait for me to update it 🤷
+
+> [!NOTE]
+> Want to make updates and add more? make a fork! this way we can moderate whats being made and shared as i do NOT want malware attached to my name and or tools
