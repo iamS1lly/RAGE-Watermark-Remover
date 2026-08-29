@@ -27,7 +27,7 @@ Just so i know whats broken or not rendering!
 > [!NOTE]
 > Want to make updates and add more? make a fork! this way we can moderate whats being made and shared as i do NOT want malware attached to my name and or tools
 
-
+Bit of a side note unrelated but this would be a great way to add your own custom build text! basically just hijacking the font-renderer.dll and telling it to render this instead of that type situation
 
 ---
 
