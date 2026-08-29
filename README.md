@@ -23,3 +23,6 @@ Just so i know whats broken or not rendering!
 
 > [!CAUTION]
 > can cause damage to FiveM USE AT YOUR OWN CAUTION, ofc i made the plugin but i aint tryna have people come after me cause "oh it broke my game" While i doubt that'll happen i wanna include that warning
+
+> [!CAUTION]
+> The plugin as a good change of breaking after every fivem update so in that case either update the font rendering blocker or just wait for me to update it 🤷
