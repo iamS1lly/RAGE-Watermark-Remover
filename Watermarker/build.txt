@@ -1,0 +1,2 @@
+RFWM v1.1.0
+Copy RFWM.asi + RFWM.ini to FiveM plugins folder
