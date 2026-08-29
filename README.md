@@ -1,5 +1,11 @@
 > [!CAUTION]
-> DUE TO THIS BEING A OPEN SOURCE TOOL YOU SHOULD NOT DOWNLOAD UN-MARKED ASI FILES FROM OTHER USERS WITHOUT CONFIRMING SOURCE!!!!! 
+> DUE TO THIS BEING A OPEN SOURCE TOOL YOU SHOULD NOT DOWNLOAD UN-MARKED ASI FILES FROM OTHER USERS WITHOUT CONFIRMING SOURCE!!!!!
+
+> [!CAUTION]
+> can cause damage to FiveM USE AT YOUR OWN CAUTION, ofc i made the plugin but i aint tryna have people come after me cause "oh it broke my game" While i doubt that'll happen i wanna include that warning
+
+> [!CAUTION]
+> The plugin as a good change of breaking after every fivem update so in that case either update the font rendering blocker or just wait for me to update it 🤷
 
 # FiveM Watermark Text Remover!
 
@@ -23,12 +29,6 @@ Just so i know whats broken or not rendering!
 
 > [!NOTE]
 > Contact at s1lly.devs
-
-> [!CAUTION]
-> can cause damage to FiveM USE AT YOUR OWN CAUTION, ofc i made the plugin but i aint tryna have people come after me cause "oh it broke my game" While i doubt that'll happen i wanna include that warning
-
-> [!CAUTION]
-> The plugin as a good change of breaking after every fivem update so in that case either update the font rendering blocker or just wait for me to update it 🤷
 
 > [!NOTE]
 > Want to make updates and add more? make a fork! this way we can moderate whats being made and shared as i do NOT want malware attached to my name and or tools
